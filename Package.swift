@@ -7,7 +7,7 @@ import PackageDescription
 let package = Package(
     name: "KakaoOpenSDK",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v12)
     ],
     products: [
         .library(
